@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\Vehicle\Vehicle\bin\Debug\Vehicle.exe.config
+C:\Users\Asus\source\repos\Vehicle\Vehicle\bin\Debug\Vehicle.exe
+C:\Users\Asus\source\repos\Vehicle\Vehicle\bin\Debug\Vehicle.pdb
+C:\Users\Asus\source\repos\Vehicle\Vehicle\obj\Debug\Vehicle.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Vehicle\Vehicle\obj\Debug\Vehicle.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Vehicle\Vehicle\obj\Debug\Vehicle.exe
+C:\Users\Asus\source\repos\Vehicle\Vehicle\obj\Debug\Vehicle.pdb
